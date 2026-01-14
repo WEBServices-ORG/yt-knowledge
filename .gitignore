@@ -1,0 +1,52 @@
+# Data and logs
+data/
+logs/
+*.log
+*.vtt
+*.txt
+*.srt
+*.mp4
+*.webm
+*.m4a
+Thinking According to Alan Watts/
+*.he
+*_he.*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# API keys and secrets
+.env
+cookies.txt
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
