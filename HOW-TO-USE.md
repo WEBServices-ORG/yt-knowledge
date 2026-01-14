@@ -8,9 +8,9 @@ You do **not** need to understand the code.
 
 ## What you need before starting
 
-- Python 3.10+  
-- Internet connection  
-- (Optional) API keys for translation or AI features  
+- Python 3.10+
+- Internet connection
+- (Optional) API keys for translation or AI features
 
 ---
 
