@@ -64,3 +64,6 @@ See [HOW-TO-USE.md](HOW-TO-USE.md)
 
 MIT License  
 See `LICENSE` for details.
+
+---
+© 2026 WEBServices. Released under the MIT License.

@@ -21,3 +21,6 @@ Clone the repository and enter it:
 ```bash
 git clone https://github.com/WEBServices-ORG/yt-knowledge.git
 cd yt-knowledge 
+
+---
+© 2026 WEBServices. Released under the MIT License.
